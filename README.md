@@ -2,7 +2,7 @@
 Stop BMW M3 angel eyes flickering when stopping your car. 
 
 
-## Beamercode 
+## Bimmercode 
 - Expert Mode: The values will be in hex so you wont be able to understand but heres the wert. The default value will be unset value.
 
 ```bash
