@@ -1,5 +1,5 @@
 # BMW-M3-Angel-Eyes
-Stop BMW M3 angel eyes flickering. 
+Stop BMW M3 angel eyes flickering when stopping your car. 
 
 
 ## Beamercode 
