@@ -14,4 +14,4 @@ wert_08
 PWM_SL_1_FKT_SL_TFL:
 wert_09
 ```
-### Leave a comment before you attempt but this world for a 2011 BMW M3 E92
+### Leave a comment before you attempt but this worked for a 2011 BMW M3 E92
