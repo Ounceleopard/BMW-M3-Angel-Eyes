@@ -22,4 +22,7 @@ wert_09
 ### OBD 
 [OBD](https://www.obdlink.com/products/obdlink-mxp/?ref=bimmercode)
 
+### Upgraded Angel Eyes 
+![IMG_7455](https://github.com/Ounceleopard/BMW-M3-Angel-Eyes/assets/40043757/55955591-0bd1-4b74-939e-588d03ffc3fe)
+
 ### Leave a comment before you attempt but this worked for a 2011 BMW M3 E92
